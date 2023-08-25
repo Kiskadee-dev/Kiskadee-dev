@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matheus Victor</h1>
-<h3 align="center">An enthusiastic developer specializing in backend systems and game development, hailing from Brazil.</h3>
+<h3 align="center">An enthusiastic developer specialized in backend systems and game development, hailing from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiskadee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kiskadee-dev" /> </p>
 
