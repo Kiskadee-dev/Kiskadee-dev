@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiskadee-dev" alt="kiskadee-dev" /></a> </p>
 
-- 🔭 I’m currently working on **An amazing integration for the ArmA 3 game**
+- 🔭 I’m currently working on **ERP Systems for small business and UI/UX**
 
-- 🌱 I’m currently learning **Flutter and  React, currently at an UI/UX bootcamp**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Cool projects that can help others**
+- 👯 I’m looking to collaborate on **Projects that can help others, specially ONGs**
 
 - 👨‍💻 You can find all my ongoing projects on my GitHub profile. [https://github.com/Kiskadee-dev/](https://github.com/Kiskadee-dev/)
 
