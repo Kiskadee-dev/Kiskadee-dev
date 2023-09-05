@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **ERP Systems for Small Businesses** and **UI/UX Design**.
 
-- 🌱 I'm currently learning **Rust**.
+- 🌱 I'm currently learning: <br> <a href="https://www.rust-lang.org/pt-BR" target="_blank"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="80" height="40" /></a>
 
 - 👯 I'm looking to collaborate on **Projects that benefit NGOs and other causes**.
 
@@ -41,6 +41,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://www.nativewind.dev/" target="_blank"><img src="https://www.nativewind.dev/img/logo.svg" alt="NativeWind" width="40" height="40" /></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="40" height="40" /></a>
 </p>
 
@@ -59,6 +60,9 @@
     <a href="https://linuxcontainers.org/" target="_blank"><img src="https://linuxcontainers.org/static/img/containers.small.png" alt="Docker" width="40" height="40" /></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Linux" width="40" height="40" /></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="Prometheus" width="40" height="40" /></a>
+
 </p>
 
 <h2 align="left">GitHub Stats</h2>
