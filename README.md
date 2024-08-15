@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working on **ERP Systems for Small Businesses** and **UI/UX Design**.
 
-- 🌱 I'm currently learning: <br> <a href="https://www.rust-lang.org/pt-BR" target="_blank"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="80" height="40" /></a>
+- 🌱 I'm currently learning: <br> <a href="https://www.rust-lang.org/pt-BR" target="_blank"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="80" height="40" /></a> <a href="" /><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" />
 
 - 👯 I'm looking to collaborate on **Projects that benefit NGOs and other causes**.
 
