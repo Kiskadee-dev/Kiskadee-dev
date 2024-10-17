@@ -1,5 +1,5 @@
 <h1 align="left">Matheus Jorge</h1>
-<h3 align="left">Passionate Developer | Backend Specialist | Game Developer | Brazil 🇧🇷</h3>
+<h3 align="left">Passionate Developer | Fullstack developer | Brazil 🇧🇷</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/matheusvictori" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **Kiskadee-dev@gmail.com**.
 
-- ⚡ Fun fact: The name "Kiskadee" is pronounced as "Kis-ka-dee," and it's inspired by a versatile bird.
+- ⚡ Fun fact: The name "Kiskadee" is pronounced as "Kis-ka-dee," and it's a versatile bird.
 
 </p>
 <h2 align="left">Languages and Tools</h2>
