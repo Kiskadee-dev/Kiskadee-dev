@@ -44,13 +44,6 @@
   <a href="https://redux.js.org" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="40" height="40" /></a>
 </p>
 
-### Game Development:
-<p align="left">
-  <a href="https://godotengine.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot Engine" width="40" height="40" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" /></a>
-</p>
-
 ### Miscellaneous Tools:
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
