@@ -9,7 +9,7 @@
 <p>
 <h2 align="left">About Me</h2>
 
-- 🔭 I'm currently working on **ERP Systems for Small Businesses** and **UI/UX Design**.
+- 🔭 I'm currently working on **CRM and ERP Systems for Small Businesses** and **UI/UX Design**.
 
 - 🌱 I'm currently learning: <br> <a href="https://www.rust-lang.org/pt-BR" target="_blank"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="80" height="40" /></a> <a href="" /><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" />
 
@@ -54,7 +54,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Linux" width="40" height="40" /></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="Prometheus" width="40" height="40" /></a>
-
 </p>
 
 <p align="left">
