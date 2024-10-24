@@ -55,14 +55,3 @@
   <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Linux" width="40" height="40" /></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://prometheus.io/assets/prometheus_logo_grey.svg" alt="Prometheus" width="40" height="40" /></a>
 </p>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kiskadee-dev&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiskadee-dev&" alt="GitHub Streak" />
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kiskadee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
